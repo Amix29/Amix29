@@ -1,7 +1,4 @@
-[Description GitHub.md](https://github.com/user-attachments/files/32416889/Description.GitHub.md)
-# Description GitHub
-
-# Hi, I'm Amix 👋
+ # Hi, I'm Amix 👋
 
 I'm 14 years old and I'm passionate about artificial intelligence 🤖.
 

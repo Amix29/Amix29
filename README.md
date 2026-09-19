@@ -82,8 +82,8 @@
 <table>
   <tr>
     <td width="425" align="center">
-      <h2>🔀 63</h2>
-      <p>Pull Requests opened</p>
+      <h2>🔥 12</h2>
+      <p>Longest Streak</p>
     </td>
     <td width="425" align="center">
       <h2>✅ 53</h2>

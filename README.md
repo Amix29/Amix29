@@ -82,7 +82,7 @@
 <table>
   <tr>
     <td width="425" align="center">
-      <h2>🔀 65</h2>
+      <h2>🔀 63</h2>
       <p>Pull Requests opened</p>
     </td>
     <td width="425" align="center">
